@@ -22,22 +22,22 @@ body{
 }
 .box-name{
     color: bisque;
-    font-size: 2vw;
+    font-size: 24pt;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: normal;
 }
 .box-des{
     color: bisque;
     margin-top: 0%;
-    font-size: 1vw;
+    font-size: 12pt;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: normal;
 }
 .box-bullets{
     float: left;
     color: bisque;
-    max-width: 20vw;
-    font-size: 1vw;
+    max-width: 30%;
+    font-size: 10pt;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: normal;
     padding: 2%;
