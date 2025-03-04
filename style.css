@@ -1,9 +1,13 @@
-body{
+/* body{ */
     /* margin: 0%;
     padding: 0%; */
-    background-image: url(bg2.jpg);
+    /* background-image: url(bg2.jpg);
     background-size: 100vw;
-    background-repeat: repeat-y;
+    background-repeat: repeat-y; */
+/* } */
+.bgimage{
+    background-image: url(bg2.jpg);
+    background-size: contain;
 }
 .box-img{
     max-width: 50%;
